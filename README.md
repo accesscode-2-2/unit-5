@@ -11,7 +11,7 @@
 |1|Saturday|02/13|[Graphs](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_13.md)||
 |1|Sunday|02/14|[Graphs + Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_14.md)||
 |2|Tuesday|02/16|[Mock Interview Practice](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_16.md)|x|
-|2|Thurday|02/18|https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_18.md||
+|2|Thurday|02/18|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_18.md)||
 |2|Saturday|02/20|[Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_20.md)||
 |2|Sunday|02/21|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_21.md)||
 |3|Tuesday|02/23|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_23.md)||
