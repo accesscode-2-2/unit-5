@@ -8,8 +8,8 @@
 |0|Sunday|02/07|[DFS + BFS + Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_07.md)|Caleb| |
 |1|Tuesday|02/09|[Mock Interview Practice](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_09.md)| |x|
 |1|Thursday|02/11|[Graphs](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_11.md)|Cameron| |
-|1|Saturday|02/13|[Graphs](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_13.md)|Linus| |
-|1|Sunday|02/14|[Graphs](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_14.md)|Caleb| |
+|1|Saturday|02/13|[Mock Interviews](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_13.md)|Linus| |
+|1|Sunday|02/14|[Mock Interviews](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_14.md)|Caleb| |
 |2|Tuesday|02/16|[Mock Interview Practice](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_16.md)| |x|
 |2|Thurday|02/18|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_18.md)|Cameron| |
 |2|Saturday|02/20|[Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_20.md)|Linus| |
