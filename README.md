@@ -14,7 +14,7 @@
 |2|Thurday|02/18|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_18.md)|Cameron| |
 |2|Saturday|02/20|[Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_20.md)|Linus| |
 |2|Sunday|02/21|[Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-2/2016_02_21.md)|Caleb| |
-|3|Tuesday|02/23|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_23.md)| |x|
-|3|Thurday|02/25|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_25.md)|Cameron| |
-|3|Saturday|02/27|[Review + TBD](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_27.md)|Linus| |
+|3|Tuesday|02/23|[Review + Passion Project Presentations](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_23.md)| |x|
+|3|Thurday|02/25|[Review + Passion Project Presentations](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_25.md)|Cameron| |
+|3|Saturday|02/27|[Review + Passion Project Presentations](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_27.md)|Linus| |
 |3|Sunday|02/28|[Graduation](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_28.md)| | |
