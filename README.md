@@ -18,3 +18,9 @@
 |3|Thurday|02/25|[Review + Passion Project Presentations](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_25.md)|Cameron| |
 |3|Saturday|02/27|[Review + Passion Project Presentations](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_27.md)|Linus| |
 |3|Sunday|02/28|[Graduation](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-3/2016_02_28.md)| | |
+
+### Homework
+ Due Date | Homework | Submission Format | Solution |
+|---|---|---|---|
+2/06/16 10:00 am | [Trees](https://docs.google.com/document/d/1te7mLS06MEYwETFSbVBqMrIzJ43GTEo5uuCiWdB0fyE/edit?usp=drivesdk) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
+
