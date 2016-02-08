@@ -1,11 +1,11 @@
 ###Unit 5 Schedule
 
-|Week|Day|Date|Activity|Instructor|Non-technical|
+|Week|Day|Date|Activity|Instructor|Exit Ticket|
 |---|---|---|---|---|---|
 |0|Tuesday|02/02|[Mock Interview Practice](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_02.md)| |x|
-|0|Thursday|02/04|[Trees + Graphs](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_04.md)|Cameron| |
-|0|Saturday|02/06|[DFS + BFS](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_06.md)|Linus| |
-|0|Sunday|02/07|[Review + Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_07.md)|Caleb| |
+|0|Thursday|02/04|[Trees](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_04.md)|Cameron|[Trees](https://docs.google.com/a/c4q.nyc/forms/d/1N7vnWSYe-9MoRvWnsuaPV0eTQmfur7u8l0qolkOmDSE/viewform) |
+|0|Saturday|02/06|[DFS + BFS](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_06.md)|Linus|[BFS](https://docs.google.com/a/c4q.nyc/forms/d/1QCoZi1X7hmS2sYP9FWZ-vD4EwlWfVr9bMZX9lHHSZ4A/viewform) |
+|0|Sunday|02/07|[Review + Assessment](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-0/2016_02_07.md)|Caleb|[Graph Traversal](https://docs.google.com/a/c4q.nyc/forms/d/1yJc2uO_M2iXPPNHrKx0MJqa7z8UELNv0dgC5Y6A63cQ/viewform) |
 |1|Tuesday|02/09|[Mock Interview Practice](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_09.md)| |x|
 |1|Thursday|02/11|[Review + Assessment debrief](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_11.md)|Cameron| |
 |1|Saturday|02/13|[Mock Interviews](https://github.com/accesscode-2-2/unit-5/blob/master/lessons/week-1/2016_02_13.md)|Linus| |
