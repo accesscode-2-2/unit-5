@@ -25,4 +25,5 @@
 2/06/16 10:00 am | [Trees](https://docs.google.com/document/d/1te7mLS06MEYwETFSbVBqMrIzJ43GTEo5uuCiWdB0fyE/edit?usp=drivesdk) | [Pull the hw repo and edit the new playground in your own repo](https://github.com/accesscode-2-2/unit-4-assignments) | x
 2/11/16 7:00 pm | Re-implement bfs on the graph that we drew in class. The graph should be represented as an adjacency list instead | |
 2/11/16 7:00 pm | [Graphs](https://github.com/accesscode-2-1/unit-5/blob/master/homework/graphs/graphs.I.md) | [Use this Google Form to submit](http://goo.gl/forms/OUliGEx6wW) | x
+2/14/16 7:00 pm | [Revise your resumes](https://docs.google.com/presentation/d/1x28JmdtWjk4bVZ9Tl-1bTWFpMTTRXJwfktJnD3V2IJ0/edit#slide=id.gf09005fb3_2_0) | Email your updated resume to ben@c4q.nyc | x
 
