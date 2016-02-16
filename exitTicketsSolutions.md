@@ -1,7 +1,5 @@
 #ALL EXIT TICKET SOLUTIONS
 
-##Unit 4
-
 ###Thursday 1/07: Data Structures and Algorithms
 
 **Question 1**: What is the difference between a data structure and an algorithm?
