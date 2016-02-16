@@ -33,7 +33,7 @@ Answer: to represent a value that may be nil - ie: if a search comes back empty,
 
 ###Thursday 1/14: Discrete math and logic
 
-Question 1: How many unique Powerball ticket configurations are there? Each ticket has six numbers total. The first five numbers are chosen from a collection of 69 numbered balls, labeled 1 through 69. The sixth and final “Powerball” number is chosen from a collection of 26 numbered balls, labeled 1 through 26. The order of the first five numbers does not matter (different orderings are equivalent). Show your work!
+**Question 1**: How many unique Powerball ticket configurations are there? Each ticket has six numbers total. The first five numbers are chosen from a collection of 69 numbered balls, labeled 1 through 69. The sixth and final “Powerball” number is chosen from a collection of 26 numbered balls, labeled 1 through 26. The order of the first five numbers does not matter (different orderings are equivalent). Show your work!
 
 **Answer**:  69Choose5 * 26
 
